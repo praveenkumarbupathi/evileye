@@ -1,0 +1,12 @@
+WhiteHat/
+│── whitehat.py  <-- Main script
+│── config.py    <-- Configuration file
+│── core/
+│   │── __init__.py
+│   │── dependencies.py
+│   │── tunneling.py
+│   │── server.py
+│   └── utilities.py
+│── templates/
+│── logs/
+└── db/
